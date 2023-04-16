@@ -35,6 +35,8 @@ function updateSubscription(uint256 index) external
 
 [Contract Live on Avalanche](https://snowtrace.io/address/0x843e499e54d8d0c2274da668faa748d8206846f8#code)
 
+[LionHack Devfolio Submission](https://devfolio.co/projects/pyth-price-pusher-4161)
+
 <img width="1085" alt="image" src="https://user-images.githubusercontent.com/12901349/232318743-3bf8346e-9694-4691-82c9-40ca61a04f66.png">
 
 
