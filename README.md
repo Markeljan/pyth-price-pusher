@@ -37,6 +37,9 @@ function updateSubscription(uint256 index) external
 
 [LionHack Devfolio Submission](https://devfolio.co/projects/pyth-price-pusher-4161)
 
-<img width="1085" alt="image" src="https://user-images.githubusercontent.com/12901349/232318743-3bf8346e-9694-4691-82c9-40ca61a04f66.png">
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/12901349/232318743-3bf8346e-9694-4691-82c9-40ca61a04f66.png">
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/12901349/232318857-1d03b176-6ad8-441e-8817-15c5a20ea51a.png">
+
 
 
