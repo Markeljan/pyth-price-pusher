@@ -35,7 +35,7 @@ contract PythPricePusher {
     }
     Subscription[] public subscriptions;
 
-    IPythPriceFeed public pythContract = IPythPriceFeed(0xff1a0f4744e8582DF1aE09D5611b887B6a12925C);
+    IPythPriceFeed public pythContract = IPythPriceFeed(0x4305FB66699C3B2702D4d05CF36551390A4c69C6);
 
     event SubscriptionUpdated(bytes32 indexed id, IPythStructs.Price priceData);
 
