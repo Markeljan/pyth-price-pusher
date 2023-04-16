@@ -6,11 +6,10 @@ import {
   getDefaultWallets,
   RainbowKitProvider,
 } from '@rainbow-me/rainbowkit';
-import { WagmiConfig, configureChains, createClient } from 'wagmi'
+import { WagmiConfig, configureChains, createClient, goerli } from 'wagmi'
 import { publicProvider } from 'wagmi/providers/public';
-
-import { avalancheFuji } from 'wagmi/chains';
-const { chains, provider } = configureChains([avalancheFuji],
+import { avalancheFuji, avalanche } from 'wagmi/chains';
+const { chains, provider } = configureChains([avalancheFuji, avalanche, goerli],
   [
     publicProvider()
   ]
@@ -29,7 +28,6 @@ const wagmiClient = createClient({
 })
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
-
       <WagmiConfig client={wagmiClient}>
       <RainbowKitProvider chains={chains}>
         <App />

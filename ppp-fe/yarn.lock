@@ -932,6 +932,11 @@
   resolved "https://registry.npmjs.org/@pythnetwork/price-service-sdk/-/price-service-sdk-1.2.0.tgz"
   integrity sha512-h4HcUwBPFEZwa5nLMTz9YnwdLE5m+Bfctzqbj09vpSJo2DyPHCyEXScFUuizWBbfofxB/pF+OnZXjU3pJxtm/w==
 
+"@pythnetwork/pyth-sdk-solidity@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@pythnetwork/pyth-sdk-solidity/-/pyth-sdk-solidity-2.2.1.tgz#604e71840b68d688281a64369e377dfc7109173e"
+  integrity sha512-Tb/5fWrQBRZ+IHDQVz3GiHh6+ZbgeS/muaNosJrD94cuL6DuAwcr7yEgMq4DrlPSrb+x7Vw8d5NMOvpsC7+Vlw==
+
 "@rainbow-me/rainbowkit@^0.12.8":
   version "0.12.8"
   resolved "https://registry.npmjs.org/@rainbow-me/rainbowkit/-/rainbowkit-0.12.8.tgz"
